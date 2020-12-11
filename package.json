@@ -1,0 +1,29 @@
+{
+  "name": "react-app",
+  "version": "0.0.0",
+  "description": "simple app for react",
+  "main": "index.js",
+  "source": "./src/main.jsx",
+  "scripts": {
+    "build": "kbuild"
+  },
+  "author": "lsong",
+  "license": "MIT",
+  "devDependencies": {
+    "@kelpjs/build": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [
+    "react",
+    "demo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/react-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/react-app/issues"
+  },
+  "homepage": "https://github.com/song940/react-app#readme"
+}

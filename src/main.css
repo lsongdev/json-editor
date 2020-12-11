@@ -1,0 +1,12 @@
+
+.array-editor {
+    border: 1px solid green;
+}
+
+.object-editor {
+    border: 1px solid blue;
+}
+
+.field-editor {
+    border: 1px solid red;
+}
