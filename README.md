@@ -1,3 +1,3 @@
 # Super Tiny JSON Editor
 
-Live Demo: http://lsong.org/json-editor
+Live Demo: https://lsong.org/json-editor
